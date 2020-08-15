@@ -1,2 +1,2 @@
-# testchatapp
+# testchat
 Node js test chat app
